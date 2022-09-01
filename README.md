@@ -6,14 +6,14 @@
 - 🔭 I’m currently working on **Ricks Movie App**
 
 - 🌱 I’m currently learning **Blockchain**
-
-- 👨‍💻 All of my projects are available at [https://jai-minocha-portfolio.netlify.app/](https://jai-minocha-portfolio.netlify.app/)
+<!-- 
+- 👨‍💻 All of my projects are available at [https://jai-minocha-portfolio.netlify.app/](https://jai-minocha-portfolio.netlify.app/) -->
 
 - 💬 Ask me about **Data Structures and Algorithm**
 
 - 📫 How to reach me **jaiminocha7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me: </h3> -->
 <p align="left">
 </p>
 
