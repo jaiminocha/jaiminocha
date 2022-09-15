@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **jaiminocha7@gmail.com**
 
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-- Vint Cerf
+"And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." - Vint Cerf
 
 <!-- <h3 align="left">Connect with me: </h3> -->
 <p align="left">
