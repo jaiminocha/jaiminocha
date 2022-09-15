@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jaiminocha7@gmail.com**
 
-little universe, and then it does what you tell it to do.
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 - Vint Cerf
 
 <!-- <h3 align="left">Connect with me: </h3> -->
