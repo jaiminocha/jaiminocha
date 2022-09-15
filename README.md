@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **jaiminocha7@gmail.com**
 
+little universe, and then it does what you tell it to do.
+- Vint Cerf
+
 <!-- <h3 align="left">Connect with me: </h3> -->
 <p align="left">
 </p>
